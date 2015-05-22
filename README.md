@@ -1,2 +1,2 @@
 # test-repo2
-demo
+This is my demo.
